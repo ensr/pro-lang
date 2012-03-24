@@ -3,4 +3,4 @@ def pat(s,p):
 		if s[i:i+len(p)] == p:
 			return True
 	return False 
-print hop("1110110010110110010","1010")
+print pat("1110110010110110010","1010")

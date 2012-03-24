@@ -1,5 +1,5 @@
 dizi = raw_input("Bir cumle giriniz:")
-#ensar      hamzacebi
+# ensar      hamzacebi
 i = 0
 sonuc = ""
 while i <= len(dizi)-1:
